@@ -37,7 +37,7 @@ class BusinessCardApp extends StatelessWidget {
               ),
             ),
             Text(
-              'Amira Nasser',
+              'Amira Nasser Sayed',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 32,
