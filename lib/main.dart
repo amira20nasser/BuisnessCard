@@ -45,7 +45,7 @@ class BusinessCardApp extends StatelessWidget {
               ),
             ),
             Text(
-              'FLUTTER DEVELOPER',
+              'FLUTTER DEVELOPER 2',
               style: TextStyle(
                 color: Colors.amberAccent,
                 fontWeight: FontWeight.bold,
