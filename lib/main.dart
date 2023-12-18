@@ -37,7 +37,7 @@ class BusinessCardApp extends StatelessWidget {
               ),
             ),
             Text(
-              'Amira Nasser',
+              'Amira Nasser Sayed',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 32,
@@ -45,7 +45,7 @@ class BusinessCardApp extends StatelessWidget {
               ),
             ),
             Text(
-              'FLUTTER DEVELOPER',
+              'FLUTTER DEVELOPER 2',
               style: TextStyle(
                 color: Colors.amberAccent,
                 fontWeight: FontWeight.bold,
